@@ -1,4 +1,2 @@
 #!/bin/bash
-First line
-Second Line
-Third line
+head -3 iacta | tail -1
